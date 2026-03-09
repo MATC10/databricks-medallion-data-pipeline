@@ -111,7 +111,8 @@ Silver Tables
         ▼
 Gold Tables
 ```
- 
+ <img width="1315" height="806" alt="image" src="https://github.com/user-attachments/assets/db9b37f1-0956-4339-88bb-5cfc49847faa" />
+
 ---
  
 # Dataset
